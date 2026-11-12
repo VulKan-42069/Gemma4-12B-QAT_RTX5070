@@ -1,0 +1,8 @@
+cache/
+logs/
+benches/
+llama.cpp/
+models/*.gguf
+*.exe
+*.dll
+*.pdb
